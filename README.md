@@ -1,10 +1,11 @@
+git branch -M main
 # shopKart eCommerce Platform
 
 > eCommerce platform built with the MERN stack & Redux.
 
 # Deployed at [Click here](https://kartshop.herokuapp.com/)
 
-![screenshoot](https://github.com/Deepak00619/shopkart-MERN-app/blob/master/uploads/2021-02-07%20(2).png)
+
 
 ## Features
 
